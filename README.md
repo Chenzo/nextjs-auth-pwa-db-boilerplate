@@ -1,4 +1,4 @@
-## Streamer Tools
+## NextJS + Next Auth + PWA + MongoDB
 
 First, run the development server:
 
